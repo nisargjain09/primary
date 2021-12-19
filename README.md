@@ -1,2 +1,2 @@
 # primary
-Contains some useful reusable codes
+Contains some code snippets, project descriptions and competitive programming learnings
